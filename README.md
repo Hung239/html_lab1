@@ -1,4 +1,4 @@
-                   Nội dung và các kết quả
+                  Nội dung và các kết quả
            Hướng dẫn tạo trang web tĩnh cho người mới bắt đầu
 
   Đầu tiên chúng ta phải biết sử dụng các thẻ (phần tử) cơ bản: Headings, Paragraphs, Divisions, Emphasis,Strong, Links, Lists, Images
